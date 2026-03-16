@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardiktripathi04" alt="hardiktripathi04" /></a> </p>
 
-- 🔭 I’m currently working on [Imagera](https://github.com/ayushmorbar/Imagera.git)
-
 - 🌱 I’m currently learning **MongoDB, React, Tailwind, GSAP**
 
 - 👯 I’m looking to collaborate on **Mini/Major Projects and freelancing**
